@@ -5,5 +5,5 @@ cd dmenu-d
 sudo make install
 '''
 # Patches 
-- !{xresources}(https://tools.suckless.org/dmenu/patches/xresources/)
-- !{highlight}(https://tools.suckless.org/dmenu/patches/highlight/)
+- ![xresources](https://tools.suckless.org/dmenu/patches/xresources/)
+- ![highlight](https://tools.suckless.org/dmenu/patches/highlight/)
